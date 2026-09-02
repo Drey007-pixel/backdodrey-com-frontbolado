@@ -123,6 +123,7 @@ export async function cadastrar(nome, email, senha) {
 
   return dados; // { sucesso, mensagem, token, usuario }
 }
+}
 
 // ╔═════════════════════════════════════════════════════════════════════╗
 // ║                                                                     ║
